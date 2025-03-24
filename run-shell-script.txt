@@ -1,0 +1,1 @@
+source /Users/fabian/.zshrc && light_brightest_neutral
